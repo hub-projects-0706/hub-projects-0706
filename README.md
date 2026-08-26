@@ -1,6 +1,7 @@
 # 👋 Ruthra Velan M
+#     B.E CSE(AI&ML)
 
-**Aspiring AI/ML Engineer & Cross-Platform Mobile Developer | Computer Science Undergrad**
+**Aspiring AI/ML Engineer & Web & Mobile Developer**
 
 > Bridging the gap between cutting-edge AI research and production-ready applications. Passionate about building scalable machine learning systems, computer vision solutions, and intelligent mobile experiences.
 
