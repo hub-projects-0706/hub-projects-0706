@@ -86,17 +86,6 @@ I'm a Computer Science undergraduate with a strong passion for **Artificial Inte
 
 ---
 
-## 📊 GitHub Statistics & Activity
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruthravelan&theme=tokyonight&show_icons=true&include_all_commits=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruthravelan&theme=tokyonight&layout=compact&langs_count=8)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ruthravelan&theme=tokyonight)
-
-</div>
 
 ---
 
