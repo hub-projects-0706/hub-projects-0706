@@ -1,5 +1,5 @@
-#**Ruthra Velan M**
-**B.E CSE(AI&ML)**
+# Ruthra Velan M
+## B.E CSE(AI&ML)
 
 **Aspiring AI/ML Engineer & Web & Mobile Developer**
 
