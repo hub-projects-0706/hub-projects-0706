@@ -101,7 +101,7 @@ I'm a Computer Science undergraduate with a strong passion for **Artificial Inte
 - **Responsive Websites** - Modern web applications with seamless UX
 - **Full-Stack Solutions** - Backend APIs with intelligent frontend interfaces
 
-*[Visit my portfolio to explore detailed project breakdowns →](https://ruthravelan.dev)*
+*[Visit my portfolio to explore detailed project breakdowns →]([https://ruthravelan.dev](https://ruthram.netlify.app/))*
 
 ---
 
